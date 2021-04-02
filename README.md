@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @aviRon012
+- 👀 I’m interested in crypto-currencies and peer to peer networking
+- 🌱 I’m currently learning git and markdown
