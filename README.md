@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @aviRon012
-- 👀 I’m interested in:
+Hi, I’m @aviRon012
+
+Things i’m interested in:
   - crypto-currencies
   - peer to peer networking
-- 🌱 I’m currently learning:
-  - git
+
+Things i’m currently learning:
   - markdown
+  - git
+  - github
