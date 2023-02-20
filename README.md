@@ -1,10 +1,10 @@
 Hi, I’m @aviRon012
 
-Things i’m interested in:
-  - crypto-currencies
-  - peer to peer networking
+I am:
+- a student of c.s. and math.
+- somewhat good at c, c++, python.
+- a p.l. therory nerd.
 
-Things i’m currently learning:
-  - markdown
-  - git
-  - github
+My favorite:
+- project languages are: [Carbon](https://github.com/carbon-language/carbon-lang), and [ziglang](https://github.com/ziglang/zig).
+- social media to consume is YouTube.
